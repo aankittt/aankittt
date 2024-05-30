@@ -1,18 +1,33 @@
-# 💫 About Me:
-🔭 Currently, I'm immersing myself in learning React and mastering JavaScript to build powerful and interactive user interfaces.<br><br>🌱 I’m continually expanding my knowledge of modern web development practices, exploring advanced JavaScript concepts, and honing my skills in React to create dynamic and responsive web applications.<br><br>💬 Ask me about: React components, state management with Redux or Context API, JavaScript ES6 features, or anything related to frontend development. I'm passionate about sharing my learning journey and helping others grow in their coding skills!<br><br>📫 Reach out to me: Connect with me through the links above 👆, or feel free to drop a message by raising an issue in one of my repositories. Let's learn and code together!<br><br>🤔 Open to: Exciting opportunities to apply my newfound expertise in React and JavaScript in internships, job roles, or collaborative Open Source Projects. If you're looking for a frontend developer eager to learn and contribute, let's connect!<br>
+💫 About Me:
+🔭 Currently, I’m immersing myself in learning React and mastering JavaScript to build powerful and interactive user interfaces.
+
+🌱 I’m continually expanding my knowledge of modern web development practices, exploring advanced JavaScript concepts, and honing my skills in React to create dynamic and responsive web applications.
+
+💬 Ask me about: React components, state management with Redux or Context API, JavaScript ES6 features, or anything related to frontend development. I’m passionate about sharing my learning journey and helping others grow in their coding skills!
+
+📫 Reach out to me: Connect with me through the links above 👆, or feel free to drop a message by raising an issue in one of my repositories. Let’s learn and code together!
+
+🤔 Open To: Exciting opportunities to apply my newfound expertise in React and JavaScript in internships, job roles, or collaborative Open Source Projects. If you’re looking for a frontend developer eager to learn and contribute, let’s connect!
+
+🌐 Socials:
+LinkedIn Codepen
+
+💻 Tech Stack:
+C C++ HTML5 JavaScript TypeScript CSS3 Oracle Next JS React React Native TailwindCSS MySQL
+
+📊 GitHub Stats:
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-tripathi-051908219/) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankit&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankit&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ankit&icon=7&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
